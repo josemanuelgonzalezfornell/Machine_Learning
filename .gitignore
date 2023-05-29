@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.DS_Store
 ~$*
+my_mist.data
 
 # C extensions
 *.so
