@@ -5,6 +5,8 @@ __pycache__/
 *.DS_Store
 ~$*
 my_mist.data
+4-Deep_Learning/2-Redes_Convolucionales/data
+4-Deep_Learning/2-Redes_Convolucionales/ejercicios/data
 
 # C extensions
 *.so
